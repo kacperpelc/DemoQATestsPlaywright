@@ -12,6 +12,7 @@
 * Maven
 * Playwright
 * JUnit5
+* Cucumber
 
 ## To run all tests:
 > mvn clean test
